@@ -1,3 +1,7 @@
+Refreshing my brain to be sure I'm still python-sane 🧠
+
+Task descriptions below, my solutions in separate files.
+
 # Leetcode top 150 excercises
 
 ## 12. Integer to Roman
@@ -251,3 +255,29 @@ Input
 Output
 [null, true, false, true, 2, true, false, 2]
 ```
+
+# Leetcode all problems list
+
+## 273. Integer to English Words
+
+Convert a non-negative integer num to its English words representation.
+
+Example 1:
+```
+Input: num = 123
+Output: "One Hundred Twenty Three"
+
+Example 2:
+```
+Input: num = 12345
+Output: "Twelve Thousand Three Hundred Forty Five"
+```
+
+Example 3:
+```
+Input: num = 1234567
+Output: "One Million Two Hundred Thirty Four Thousand Five Hundred Sixty Seven"
+```
+
+Constraints:
+`0 <= num <= 231 - 1`
